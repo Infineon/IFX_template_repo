@@ -12,17 +12,17 @@
 
 # How to use this repository
 ## Example files
-<p>These are examples for files files which should exist in each Infineon GitHub repository. Also those files should have the same layout and purpose. Some of those files have also a special purpose in GitHub itself.</p>
+<p>These are examples for files which should or might exist in each Infineon GitHub repository. Also those files should have the same layout and purpose. Some of those files have also a special purpose in GitHub itself.</p>
 
-| Topic      | Filename               | Description         |Links|
-|------------|------------------------|---------------------|--|
-|Code owners | [CODEOWNERS_example](examples/CODEOWNERS_example)     | Owners of this repos code         ||
-|Code of conduct| [CODE_OF_CONDUCT_example](examples/CODE_OF_CONDUCT_example)| How to engage in this community |<https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project>|
-|Contributing| [CONTRIBUTING_example.md](examples/CONTRIBUTING_example.md)| Contribution rules  ||
-|Readme      | [README_example.md](examples/README_example.md)      | Starting point for this repo     |<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>|
-|License     | [LICENSE_example](examples/LICENSE_example)        | License description ||
-|Maintainer  | [MAINTAINER_example.md](examples/MAINTAINER_example.md)  | Maintainer          ||
-|Support     | [SUPPORT_example](examples/SUPPORT_example.md)        | Support links and description ||
+| Topic      | Filename               | Description         |Links|Mandatory|
+|------------|------------------------|---------------------|--|-|
+|Code owners | [CODEOWNERS_example](examples/CODEOWNERS_example)     | Owners of this repos code         ||yes|
+|Code of conduct| [CODE_OF_CONDUCT_example](examples/CODE_OF_CONDUCT_example)| How to engage in this community |<https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project>|if contribution is allowed
+|Contributing| [CONTRIBUTING_example.md](examples/CONTRIBUTING_example.md)| Contribution rules  ||if contribution is allowed
+|Readme      | [README_example.md](examples/README_example.md)      | Starting point for this repo     |<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>|yes|
+|License     | [LICENSE_example](examples/LICENSE_example)        | License description ||yes|
+|Maintainer  | [MAINTAINER_example.md](examples/MAINTAINER_example.md)  | Maintainer          ||no|
+|Support     | [SUPPORT_example](examples/SUPPORT_example.md)        | Support links and description ||no|
 
 
 ## Example features
