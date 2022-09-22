@@ -1,5 +1,8 @@
-[![Infineon logo](./assets/images/Logo.svg)](http://www.infineon.com)
 # IFX_template_repo
+
+<a href="https://www.infineon.com">
+<img src="./assets/images/Logo.svg" align="right" alt="Infineon logo">
+</a>
 
 <p>Template for Infineon GitHub repositories.</p>
 <p> This template repo should provide hints and examples to setup a new repository in GitHub.</p>
@@ -11,18 +14,21 @@
 </ol> 
 
 # How to use this repository
-## Example files
-<p>These are examples for files which should or might exist in each Infineon GitHub repository. Also those files should have the same layout and purpose. Some of those files have also a special purpose in GitHub itself.</p>
+## GitHub special files
+<p>These are examples for files which should or might exist in each Infineon GitHub repository. Also those files should have the same layout and purpose.</p>
+
+[***Description of GitHub special files.***]( <https://github.com/joelparkerhenderson/github-special-files-and-paths#support>)
 
 | Topic      | Filename               | Description         |Links|Mandatory|
 |------------|------------------------|---------------------|--|-|
-|Code owners | [CODEOWNERS_example](examples/CODEOWNERS_example)     | Owners of this repos code         ||yes|
-|Code of conduct| [CODE_OF_CONDUCT_example](examples/CODE_OF_CONDUCT_example)| How to engage in this community |<https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project>|if contribution is allowed
-|Contributing| [CONTRIBUTING_example.md](examples/CONTRIBUTING_example.md)| Contribution rules  ||if contribution is allowed
-|Readme      | [README_example.md](examples/README_example.md)      | Starting point for this repo     |<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>|yes|
-|License     | [LICENSE_example](examples/LICENSE_example)        | License description ||yes|
-|Maintainer  | [MAINTAINER_example.md](examples/MAINTAINER_example.md)  | Maintainer          ||no|
-|Support     | [SUPPORT_example](examples/SUPPORT_example.md)        | Support links and description ||no|
+|Code owners | [CODEOWNERS](examples/CODEOWNERS_example) | Owners of this repos code |[Help](https://help.github.com/articles/about-codeowners/)|yes|
+|Code of conduct| [CODE_OF_CONDUCT](examples/CODE_OF_CONDUCT_example)| How to engage in this community |[Help](<https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project>)<br>[Awesome list](https://github.com/mntnr/awesome-contributing)|if contribution is allowed
+|Contributing| [CONTRIBUTING.md](examples/CONTRIBUTING_example.md)| Contribution rules  |[Help](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)<br>[Awesome list](https://github.com/mntnr/awesome-contributing)|if contribution is allowed|
+|Issue template|[ISSUE_TEMPLATE](examples/ISSUE_TEMPLATE)|Template for issues|[Help](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)<br>[Awesome list](https://github.com/devspace/awesome-github-templates)<br>[Multiple templates](https://blog.github.com/2018-01-25-multiple-issue-and-pull-request-templates/)|if issue tracking is enabled
+|License | [LICENSE](examples/LICENSE_example) | License description |[Help](https://help.github.com/articles/adding-a-license-to-a-repository/)<br>[License choose](https://choosealicense.com)|yes|
+|Readme | [README.md](examples/README_example.md) | Starting point for repo |[Help](<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>)<br>[Awesome list](https://github.com/matiassingers/awesome-readme)|yes|
+|Support | [SUPPORT](examples/SUPPORT_example.md) | Support links and description |[Help](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-support-resources-to-your-project)|no|
+
 
 
 ## Example features
