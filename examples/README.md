@@ -25,8 +25,8 @@
   - HW
 - Which tools/software packages are needed in which version for this repo? E.g.
   - Python installation
-  - GCC.
-- Links to tools/software packages.
+  - GCC
+- Links to tools/software packages
 - Are there build/generation steps necessary?
   - Describe build/generation steps or link a description, e.g. BUILD.md
 
