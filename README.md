@@ -22,7 +22,7 @@
 
 | Topic      | Filename               | Description         |Links|Mandatory|
 |------------|------------------------|---------------------|--|-|
-|Code owners | [CODEOWNERS](examples/CODEOWNERS) | Owners of this repos code |[Help](https://help.github.com/articles/about-codeowners/)|yes|
+|Code owners | [CODEOWNERS](examples/CODEOWNERS) | Owners of this repos code |[Help](https://help.github.com/articles/about-codeowners/)|yes<br>*Maintainer could be used instead*|
 |Code of conduct| [CODE_OF_CONDUCT](examples/CODE_OF_CONDUCT)| How to engage in this community |[Help](<https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project>)<br>[Awesome list](https://github.com/mntnr/awesome-contributing)|if contribution is allowed
 |Contributing| [CONTRIBUTING](examples/CONTRIBUTING)| Contribution rules  |[Help](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)<br>[Awesome list](https://github.com/mntnr/awesome-contributing)|if contribution is allowed|
 |Issue template|[ISSUE_TEMPLATE](examples/ISSUE_TEMPLATE)|Template for issues|[Help](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)<br>[Awesome list](https://github.com/devspace/awesome-github-templates)<br>[Multiple templates](https://blog.github.com/2018-01-25-multiple-issue-and-pull-request-templates/)|if issue tracking is enabled
