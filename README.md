@@ -27,7 +27,7 @@
 |Contributing| [CONTRIBUTING](examples/CONTRIBUTING)| Contribution rules  |[Help](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)<br>[Awesome list](https://github.com/mntnr/awesome-contributing)|if contribution is allowed|
 |Issue template|[ISSUE_TEMPLATE](examples/ISSUE_TEMPLATE)|Template for issues|[Help](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)<br>[Awesome list](https://github.com/devspace/awesome-github-templates)<br>[Multiple templates](https://blog.github.com/2018-01-25-multiple-issue-and-pull-request-templates/)|if issue tracking is enabled
 |License | [LICENSE](examples/LICENSE) | License description |[Help](https://help.github.com/articles/adding-a-license-to-a-repository/)<br>[License choose](https://choosealicense.com)|yes|
-|Readme | [README](examples/README) | Starting point for repo |[Help](<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>)<br>[Awesome list](https://github.com/matiassingers/awesome-readme)|yes|
+|Readme | [README](examples/README.md) | Starting point for repo |[Help](<https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes>)<br>[Awesome list](https://github.com/matiassingers/awesome-readme)|yes|
 |Support | [SUPPORT](examples/SUPPORT) | Support links and description |[Help](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-support-resources-to-your-project)|no|
 
 
