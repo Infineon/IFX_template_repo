@@ -42,4 +42,6 @@
   - CONTRIBUTING.md
 - How to get support?
   - SUPPORT.md
+- Which license is used?
+  - License
 
